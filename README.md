@@ -1,5 +1,5 @@
 # Eliza
-
+##Cloned from https://github.com/elizaOS/eliza-starter
 ## Edit the character files
 
 Open `agent/src/character.ts` to modify the default character. Uncomment and edit.
